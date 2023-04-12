@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header .container-fluid{
+    background-image: url("../../assets/img/fondo.jpg");
+    background-size: auto;
+}
+.footer div{
+    background-image: url("../../assets/img/fondo.jpg");
+    background-size: cover;
+}
+
+
+#card1 ,#card2, #card3, #carousel_sobre_nosotros{
+    z-index: 100;
+
+}
+#cerrar{
+    z-index: 101;
+}
